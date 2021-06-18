@@ -1,0 +1,1 @@
+parseFloat('10.2abc')
